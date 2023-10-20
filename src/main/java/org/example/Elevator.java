@@ -85,4 +85,5 @@ public class Elevator {
     public int getFreePlaces() {
         return freePlaces;
     }
+
 }
