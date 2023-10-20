@@ -25,3 +25,18 @@ System kontroli wind zaprogramowany w Javie.
 ## Program:
 - Po włączeniu programu poprosi on o podanie liczby pięter oraz liczby wind (program przyjmuje tylko inty).
 - Dla ulatwienia założyłam, że w windzie mogą zmieścić się 4 osoby.
+
+
+  ## Uruchomienie
+Aby uruchomić projekt, najpierw trzeba sklonować repozytorium używając
+```
+git clone https://github.com/Jullija/ElevatorSystem.git
+```
+
+Następnie należy wejść do folderu, w którym znajduje się sklonowanie repozytorium i wywołać komendy
+
+```
+./gradlew build
+
+./gradlew run
+```
